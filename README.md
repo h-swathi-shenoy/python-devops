@@ -11,6 +11,10 @@ Understand devops for projects. Includes github actions,ci/cd, conatainerization
   - Dockerfile
   - Command Line Tool
   - Microservice
+
+1. Create virtual environment - virtualenv ~/.env (Invisible dir, good practise, as we dont need to remember virtual env names, its always .env file)
+2. Edit by '~.bashrc'(called while invocation of interpreter) - Add the line in the end(ctrl+g) 'source ~/.env/bin/activate'
+(using vim ~/.bashrc)
 ## Command Line tools
 ## Microservices
 ## Containerization
