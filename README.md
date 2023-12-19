@@ -1,3 +1,4 @@
+[![Test Multiple Python Versions](https://github.com/h-swathi-shenoy/python-devops/actions/workflows/makefile.yml/badge.svg)](https://github.com/h-swathi-shenoy/python-devops/actions/workflows/makefile.yml)
 # python-devops
 Understand devops for projects. Includes github actions,ci/cd, conatainerization
 ## Gen Project Scaffold
