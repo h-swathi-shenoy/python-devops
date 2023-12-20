@@ -5,10 +5,10 @@ Understand devops for projects. Includes github actions,ci/cd, conatainerization
 ### Create Dev Environment that is cloud-based
   -  Notebooks, Github Codespaces,AWSCloud9,AWS CloudShell
 ## Python - Build Project Scaffold
-  - Makefile : Cookboook for thing for reproducibility
-  - requirements.txt - libs req
-  - tests_lib.py
-  - python_library
+  - [Makefile]: Cookboook for thing for reproducibility(https://github.com/h-swathi-shenoy/python-devops/blob/b35e085d08633458222dc1c79cc3b9b26818d073/Makefile)
+  - [requirements.txt] - libs req(https://github.com/h-swathi-shenoy/python-devops/blob/b35e085d08633458222dc1c79cc3b9b26818d073/requirements.txt)
+  - [tests_lib.py] :(https://github.com/h-swathi-shenoy/python-devops/blob/b35e085d08633458222dc1c79cc3b9b26818d073/test_devopslib.py)
+  - [python_library] :(https://github.com/h-swathi-shenoy/python-devops/tree/b35e085d08633458222dc1c79cc3b9b26818d073/devopslib)
   - Dockerfile
   - Command Line Tool
   - Microservice
