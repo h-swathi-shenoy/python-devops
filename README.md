@@ -19,5 +19,9 @@ Understand devops for projects. Includes github actions,ci/cd, conatainerization
 3. Check for the libs installed : pip freeze | wc -l (needs to be 0 init)
 4. Makefile run cmd: make install
 ## Command Line tools
+- Function consists of - input/unitofwork/output
+- Use lambda fuctions: Create lambda from scratch (input-trigger, function,output-destn)
+- Step functions: Co-ordinate state operations.
+- Fire lib to convert any function to a command line 
 ## Microservices
 ## Containerization
