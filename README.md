@@ -22,6 +22,8 @@ Understand devops for projects. Includes github actions,ci/cd, conatainerization
 - Function consists of - input/unitofwork/output
 - Use lambda fuctions: Create lambda from scratch (input-trigger, function,output-destn)
 - Step functions: Co-ordinate state operations.
-- Fire lib to convert any function to a command line 
+- Fire lib to convert any function to a command line
+  ![image](https://github.com/h-swathi-shenoy/python-devops/assets/47154548/022ec0f7-438a-49c9-ab60-f043bfd27da7)
+
 ## Microservices
 ## Containerization
