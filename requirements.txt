@@ -3,3 +3,7 @@ pytest
 black
 pytest-cov
 fire
+fastapi==0.75.1
+uvicorn==0.17.6
+textblob==0.17.1
+wikipedia==1.4.0
