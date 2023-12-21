@@ -26,4 +26,9 @@ Understand devops for projects. Includes github actions,ci/cd, conatainerization
   ![image](https://github.com/h-swathi-shenoy/python-devops/assets/47154548/022ec0f7-438a-49c9-ab60-f043bfd27da7)
 
 ## Microservices
+- fastapi as a microservice
+- swagger /docs
 ## Containerization
+- create dockerfile push to ecr(usinf view push commands after creating image in ecr)
+- To run locally : docker run -p 127.0.0.1:8080:8080 image_id( docker image ls)
+
